@@ -1,0 +1,16 @@
+{
+    "name": "serverpress/innodb-autoconvert",
+    "description": "Convert a site's tables to InnoDB on Create, Copy, Move, and Import operations.",
+    "type": "wordpress-plugin",
+    "license": "GPL",
+    "authors":[
+        {
+            "name": "Stephen J. Carnam",
+            "email": "steve@serverpress.com",
+            "homepage": "https://github.com/serverpress"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
